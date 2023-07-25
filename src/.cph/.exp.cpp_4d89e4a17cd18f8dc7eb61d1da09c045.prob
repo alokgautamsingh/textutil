@@ -1,0 +1,1 @@
+{"name":"Local: exp","url":"c:\\Users\\Alok singh\\Desktop\\project\\react\\my-app\\src\\exp.cpp","tests":[{"id":1690225347958,"input":"1\n3[b2[ca]]","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Alok singh\\Desktop\\project\\react\\my-app\\src\\exp.cpp","group":"local","local":true}
